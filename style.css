@@ -1,0 +1,126 @@
+/* Sfondo header più logo */
+header{
+  height: 150px;
+  width: 100%;
+  background-image: url(img/pattern.png);
+  background-size: auto;
+  background-color: lightskyblue;
+}
+
+header img{
+  height: 70px;
+  width: auto;
+  margin-left: 220px;
+  margin-top: 70px;
+}
+/* struttutra main */
+main{
+  width: 75%;
+  margin: auto;
+}
+/* titolo */
+h1{
+  font-size: 48px;
+  margin-bottom: 2px;
+}
+/* crediti */
+.credits{
+  font-size: 18px;
+  color: lightslategrey;
+  }
+
+#booleaner{
+  color: lightskyblue;
+}
+
+#data{
+  margin-top: 1px;
+  font-size: 10px;
+  color: lightslategrey;
+  margin-bottom:20px;
+}
+/* Testo evidenziato */
+
+.text{
+  background-color: yellow;
+}
+
+
+/* tim immagini */
+
+.container{
+  margin-bottom: 2px;
+}
+
+.tim{
+  font-size: 12px;
+}
+
+.article{
+  margin-top: 25px;
+  font-size: 18px;
+}
+
+/* Tabella */
+
+.row{
+  box-sizing: border-box;
+  background-color: blue;
+  ;
+  width: 100%;
+}
+.row2{
+  
+  box-sizing: border-box;
+  background-color: lightskyblue;
+  width: 100%;
+}
+.row3{
+  
+  box-sizing: border-box;
+  width: 100%;
+}
+
+
+.col{
+  margin: 0px;
+  border: 1px;
+  display: inline-block;
+  width: 25%;
+  vertical-align: middle;
+}
+
+.col3{
+  margin: 0px;
+  border: 1px;
+  display: inline-block;
+  width: 48%;
+  vertical-align: middle;
+}
+
+/* Immagini monitor e graph */
+
+h3{
+  color: grey;
+}
+
+.box{
+  height: 150px;
+  background-image: url(img/monitor.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  font-size: 20px;
+  color: white;
+}
+
+.box2{
+  margin-top: 20px;
+  height: 150px;
+  background-image: url(img/graph.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  font-size: 20px;
+  color: white;
+}
+
+
