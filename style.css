@@ -65,14 +65,14 @@ h1{
 
 .row{
   box-sizing: border-box;
-  background-color: blue;
+  background-color: #33bbff;
   ;
   width: 100%;
 }
 .row2{
   
   box-sizing: border-box;
-  background-color: lightskyblue;
+  background-color:#b3e6ff;
   width: 100%;
 }
 .row3{
